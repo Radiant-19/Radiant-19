@@ -21,6 +21,6 @@ Hi,I am Arvind Manavalan<br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Radiant-19&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Radiant-19" frameborder="0"></iframe>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Radiant-19&icon=0&color=2)](https://visitcount.itsvg.in)
