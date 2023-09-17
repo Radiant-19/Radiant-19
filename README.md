@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<p align="center">- 🔭 Undergrad At SSN college of Engineering<br>- 📚 I'm currently learning<br>                 ✨ pytorch<br>                 ✨ android app development<br><br>                  <br>- ⚡Currently working on Real time chat application.<br>-      🙌 ready to collaborate on AI automated App Systems using React Native<br>-🎇Intrested in exploring deep neural networks and VGG model</p>
+<p align="center">- 🔭 Undergrad At SSN college of Engineering<br>- 📚 I'm currently learning<br>                 ✨ pytorch<br>                 ✨ android app development<br><br>                  <br>- ⚡Currently working on Real time chat application.<br>-      🙌 ready to collaborate on AI automated App Systems using React Native<br>-🎇Intrested in exploring deep neural networks and VGG model applications</p>
 
 ###
 
